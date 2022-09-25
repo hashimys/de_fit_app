@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88311599005",
+    "project_id": "de-fet",
+    "storage_bucket": "de-fet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88311599005:android:47ce554904dc46aad86974",
+        "android_client_info": {
+          "package_name": "hashimys.com.de_fit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88311599005-s1ricgu78nfl0qo7q0iqoktmsqgguje0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMkRDgwyUdJEoTDDx64yy6pkFaWzyQKHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88311599005-s1ricgu78nfl0qo7q0iqoktmsqgguje0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
